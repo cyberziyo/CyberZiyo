@@ -12,7 +12,7 @@
 💻 Cybersecurity enthusiast  
 🎯 Sharing cybersecurity knowledge in Uzbek and English  
 🔒 Focus: Phishing | Password security | Microsoft Defender | 2FA  
-👨‍💻 Founder of Cyber Ziyo — cybersecurity education for all!
+👨‍💻 Founder of Cyber Ziyo - cybersecurity education for all!
 
 📫 Contact me
  GitHub: [github.com/CyberZiyo](https://github.com/CyberZiyo)
