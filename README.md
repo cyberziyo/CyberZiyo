@@ -17,5 +17,5 @@ My projects
 📫 Contact me
  GitHub: [github.com/CyberZiyo](https://github.com/CyberZiyo)
  LinkedIn: [linkedin.com/in/CyberZiyo](#) *(linkni o‘z real LinkedIn’ga almashtir)*
- Email: yourmail@example.com
+ Email: CyberZiyo1@gmail.com
 
