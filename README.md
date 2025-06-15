@@ -4,7 +4,7 @@
 🌐 Incoming **Computer Science student** at TUIT and Yeungnam University, Uzb and Korea (2+2 Double degree education).  
 🎯 Future **Microsoft Student Ambassador**.  
 
-🚀 My projects
+🚀 My projects.
 🛡️ CyberZiyo-Tips: Simple cybersecurity tips for students
 🔑 Password-Generator: Strong password generator (Python)
 🌍 CyberZiyo-Portfolio: My projects and educational resources
