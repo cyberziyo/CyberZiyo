@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m Cyber Ziyo
 
-<!--
-**cyberziyo/CyberZiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m passionate about **cybersecurity** and **online safety education**.  
+🌐 Incoming **Computer Science student** at TUIT and Yeungnam University, Uzb and Korea (2+2 Double degree education).  
+🎯 Future **Microsoft Student Ambassador**.  
 
-Here are some ideas to get you started:
+🚀 My projects
+🛡️ CyberZiyo-Tips: Simple cybersecurity tips for students
+🔑 Password-Generator: Strong password generator (Python)
+🌍 CyberZiyo-Portfolio: My projects and educational resources
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact me
+ GitHub: [github.com/CyberZiyo](https://github.com/CyberZiyo)
+ LinkedIn: [linkedin.com/in/CyberZiyo](#) *(linkni o‘z real LinkedIn’ga almashtir)*
+ Email: yourmail@example.com
+
