@@ -12,7 +12,7 @@
 🚀 My projects
 - 🛡️ **CyberZiyo-Tips:** Simple cybersecurity tips for students
 - 🔑 **Password-Generator:** Strong password generator (Python)
-- 🌍 **CyberZiyo-Portfolio:** My projects and educational resources
+- 🌍 **CyberZiyo-Portfolio:** My projects and educational resources.
 
 📫 Contact me
  GitHub: [github.com/CyberZiyo](https://github.com/CyberZiyo)
