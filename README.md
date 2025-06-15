@@ -5,10 +5,10 @@
 🎯 Future **Microsoft Student Ambassador**.  
 
 🚀 My projects
-🛡️ **CyberZiyo-Tips:** Simple cybersecurity tips for students
-🔑 **Password-Generator:** Strong password generator (Python)
-🌍 **CyberZiyo-Portfolio:** My projects and educational resources
- 
+- 🛡️ **CyberZiyo-Tips:** Simple cybersecurity tips for students
+- 🔑 **Password-Generator:** Strong password generator (Python)
+- 🌍 **CyberZiyo-Portfolio:** My projects and educational resources
+- 
 💻 Cybersecurity enthusiast  
 🎯 Sharing cybersecurity knowledge in Uzbek and English  
 🔒 Focus: Phishing | Password security | Microsoft Defender | 2FA  
