@@ -9,6 +9,10 @@
 🔒 Focus: Phishing | Password security | Microsoft Defender | 2FA  
 👨‍💻 Founder of Cyber Ziyo — cybersecurity education for all!
 
+🚀 My projects.
+🛡️ CyberZiyo-Tips: Simple cybersecurity tips for students
+🔑 Password-Generator: Strong password generator (Python)
+🌍 CyberZiyo-Portfolio: My projects and educational resources
 
 📫 Contact me
  GitHub: [github.com/CyberZiyo](https://github.com/CyberZiyo)
