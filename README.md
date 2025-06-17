@@ -1,4 +1,4 @@
-Hi, I’m Cyber Ziyo
+Hi, I'm Ziyomuhammad Tojimurodov
 
 I’m passionate about **Cybersecurity** and **Online safety education**.  
 Incoming **Computer Science student** at TUIT and Yeungnam University, Uzb and Korea (2+2 Double degree education).  
@@ -16,6 +16,6 @@ My projects
 
 📫 Contact me
  GitHub: [github.com/CyberZiyo](https://github.com/CyberZiyo)
- LinkedIn: [linkedin.com/in/CyberZiyo](#) *(linkni o‘z real LinkedIn’ga almashtir)*
+ LinkedIn: [linkedin.com/in/CyberZiyo]
  Email: cyberziyo1@gmail.com
 
